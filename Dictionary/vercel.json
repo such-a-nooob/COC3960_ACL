@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "dictionary.html",
-      "use": "@vercel/static"
-    }
-  ]
-}
